@@ -6,3 +6,6 @@ Anggota :
 3. Noval Raihan R    (225150407111056)
 4. Muhammad Choliq A (225150407111065)
 
+CSS Framework yang digunakan : Bootstrap 5
+
+Link Preview : https://ddap-project-akhir.vercel.app/
